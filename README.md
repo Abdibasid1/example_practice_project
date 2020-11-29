@@ -1,3 +1,3 @@
 ### This is the text for practice project
 learnt basic commands
-set-up a remote repository
+set-up a remote repository this has been achieved.
